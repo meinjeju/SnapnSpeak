@@ -1,0 +1,5 @@
+{
+  "name": "Snap & Speak",
+  "description": "An application for language learners to generate conversational dialogues from a photo. Upload an image, set your learning preferences, and get a custom dialogue with text-to-speech to practice pronunciation.",
+  "requestFramePermissions": []
+}
